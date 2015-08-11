@@ -3,6 +3,8 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
+[![js-obama-style](http://i.imgur.com/yLPk2AQ.png)](https://github.com/rgbkrk/obama)
+
 ### If it's good enough for Obama, it's good enough for you.
 
 > Many have asked me what is the code that President Obama wrote. It was a single line of JavaScript:
@@ -31,7 +33,7 @@ Importantly:
 ## Badge
 
 Use this in one of your projects? Include one of these badges in your readme to
-let people know that your code is using the standard style.
+let people know that your code is using obama style.
 
 [![js-obama-style](http://i.imgur.com/yLPk2AQ.png)](https://github.com/rgbkrk/obama)
 
