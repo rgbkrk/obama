@@ -3,7 +3,7 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
-[![js-obama-style](http://i.imgur.com/yLPk2AQ.png)](https://github.com/rgbkrk/obama)
+[![js-obama-style](http://i.imgur.com/69YzN85.png)](https://github.com/rgbkrk/obama)
 
 ### CODE like Obama
 
