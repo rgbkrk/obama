@@ -7,7 +7,7 @@
 
 ### If it's good enough for Obama, it's good enough for you.
 
-> [Many have asked me what [code] President Obama wrote. It was a single line of JavaScript](https://www.quora.com/What-was-the-one-line-JavaScript-that-president-Obama-wrote-as-part-of-the-Hour-of-Code-2014) `moveForward(100)` -- *Hadi Partovi, CEO, Code.org*
+> [Many have asked me what [code] President Obama wrote. It was a single line of JavaScript](https://www.quora.com/What-was-the-one-line-JavaScript-that-president-Obama-wrote-as-part-of-the-Hour-of-Code-2014) `moveForward(100);` -- *Hadi Partovi, CEO, Code.org*
 
 This adapts [feross/standard] and [Flet/semistandard] for use by Obama.
 
