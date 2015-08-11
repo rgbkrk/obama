@@ -7,7 +7,7 @@
 
 ### If it's good enough for Obama, it's good enough for you.
 
-> Many have asked me what is the code that President Obama wrote. It was a single line of JavaScript:
+> Many have asked me what [code] President Obama wrote. It was a single line of JavaScript:
 
 ```JavaScript
 moveForward(100);
