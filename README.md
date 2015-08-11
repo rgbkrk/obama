@@ -28,6 +28,7 @@ npm install -g obama
 Importantly:
 
 - **semicolons**
+- Presidential Seal of Approval
 - Check [feross/standard] for the rest of the rules.
 
 ## Badge
@@ -35,10 +36,10 @@ Importantly:
 Use this in one of your projects? Include one of these badges in your readme to
 let people know that your code is using obama style.
 
-[![js-obama-style](http://i.imgur.com/yLPk2AQ.png)](https://github.com/rgbkrk/obama)
+[![js-obama-style](http://i.imgur.com/jbXMppy.png)](https://github.com/rgbkrk/obama)
 
 ```markdown
-[![js-obama-style](http://i.imgur.com/yLPk2AQ.png)](https://github.com/rgbkrk/obama)
+[![js-obama-style](http://i.imgur.com/jbXMppy.png)](https://github.com/rgbkrk/obama)
 ```
 
 [![js-obama-style](https://img.shields.io/badge/code%20style-obama-brightgreen.svg?style=flat-square)](https://github.com/rgbkrk/obama)
