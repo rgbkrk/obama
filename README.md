@@ -5,11 +5,19 @@
 
 [![js-obama-style](http://i.imgur.com/yLPk2AQ.png)](https://github.com/rgbkrk/obama)
 
-### If it's good enough for Obama, it's good enough for you.
+### CODE like Obama
 
-> [Many have asked me what [code] President Obama wrote. It was a single line of JavaScript](https://www.quora.com/What-was-the-one-line-JavaScript-that-president-Obama-wrote-as-part-of-the-Hour-of-Code-2014) `moveForward(100);` -- *Hadi Partovi, CEO, Code.org*
+> Many [have asked me](https://www.quora.com/What-was-the-one-line-JavaScript-that-president-Obama-wrote-as-part-of-the-Hour-of-Code-2014) what [code] President Obama wrote. It was a single line of JavaScript:
 
-This adapts [feross/standard] and [Flet/semistandard] for use by Obama.
+```JavaScript
+moveForward(100);
+```
+
+> The President asked if he needs to type the `F` in upper-case, and he got the `()` and the `;` right too, he was very precise and didn't make a typing mistake.
+
+-- *Hadi Partovi, CEO, Code.org*
+
+We all want to be as precise with no typing mistakes, just like Obama. He's got your back with `obama`!
 
 ## Install
 
