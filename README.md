@@ -17,7 +17,7 @@ moveForward(100);
 
 -- *Hadi Partovi, CEO, Code.org*
 
-We all want to be as precise with no typing mistakes, just like Obama. He's got your back with `obama`!
+We all want to be precise with no typing mistakes, just like Obama. We've got your back with `obama`!
 
 ## Install
 
