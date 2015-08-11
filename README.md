@@ -67,7 +67,7 @@ case would be checking the style of all JavaScript files in the current working 
 ```
 $ obama
 Error: Use JavaScript Obama Style
-  lib/nsa.js:950:11: Expected '===' and instead saw '=='.
+  lib/wh.js:950:11: Expected '===' and instead saw '=='.
 ```
 
 ### What you might do if you're clever
@@ -91,7 +91,7 @@ Error: Use JavaScript Obama Style
   ```
   $ npm test
   Error: Code style check failed:
-    lib/nsa.js:950:11: Expected '===' and instead saw '=='.
+    lib/wh.js:950:11: Expected '===' and instead saw '=='.
   ```
 
 3. Never give style feedback on a pull request again! (unless it's about semicolons)
