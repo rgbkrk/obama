@@ -7,13 +7,7 @@
 
 ### If it's good enough for Obama, it's good enough for you.
 
-> Many have asked me what [code] President Obama wrote. It was a single line of JavaScript:
-
-```JavaScript
-moveForward(100);
-```
-
--- Hadi Partovi, CEO, Code.org; [on Quora](https://www.quora.com/What-was-the-one-line-JavaScript-that-president-Obama-wrote-as-part-of-the-Hour-of-Code-2014)
+> [Many have asked me what [code] President Obama wrote. It was a single line of JavaScript](https://www.quora.com/What-was-the-one-line-JavaScript-that-president-Obama-wrote-as-part-of-the-Hour-of-Code-2014) `moveForward(100)` -- *Hadi Partovi, CEO, Code.org*
 
 This adapts [feross/standard] and [Flet/semistandard] for use by Obama.
 
@@ -134,6 +128,8 @@ $ obama --verbose | snazzy
 ```
 
 See [feross/standard] for more information.
+
+![Gah look at that CODE](http://i.imgur.com/Z6HlOOg.png)
 
 [travis-image]: https://img.shields.io/travis/rgbkrk/obama.svg?style=flat-square
 [travis-url]: https://travis-ci.org/rgbkrk/obama
