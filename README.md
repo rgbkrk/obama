@@ -43,7 +43,7 @@ let people know that your code is using obama style.
 [![js-obama-style](https://cloud.githubusercontent.com/assets/836375/9341487/d9b0f024-45bb-11e5-9da4-0de5a9f922da.png)](https://github.com/rgbkrk/obama)
 
 ```markdown
-[![js-obama-style](http://i.imgur.com/jbXMppy.png)](https://github.com/rgbkrk/obama)
+[![js-obama-style](https://cloud.githubusercontent.com/assets/836375/9341487/d9b0f024-45bb-11e5-9da4-0de5a9f922da.png)](https://github.com/rgbkrk/obama)
 ```
 
 [![js-obama-style](https://img.shields.io/badge/code%20style-obama-brightgreen.svg?style=flat-square)](https://github.com/rgbkrk/obama)
