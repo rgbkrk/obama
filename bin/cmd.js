@@ -7,6 +7,6 @@ process.on('exit', function (status) {
   if (status === 0) {
     console.error(require('fs').readFileSync(__dirname + '/../seal.ans').toString())
   } else {
-    console.error('The president cannot endorse this code.')
+    console.error('The former president cannot endorse this code.')
   }
 })
